@@ -72,7 +72,11 @@
             </a>
             <a href="https://nitsikkim.ac.in/documents/Project/2021/MoU_NIT%20Sikkim-IITR.pdf">
                 <div class=" flex-col gap-2 transition duration-300 ease-in-out hover:scale-110 ">
+<<<<<<< HEAD
                     <img src="../assets/image/mouPicture/sankalpClub.png" alt="image" class="object-fill h-48 w-48">
+=======
+                    <img src="../assets/image/mouPicture/iitr.png" alt="image" class="object-fill h-48 w-48">
+>>>>>>> shruti2/master
                     <p class="text-center text-2xl">IIT Roorkee</p>
                 </div>
             </a>
@@ -120,6 +124,7 @@
             </a>
             <a href="https://nitsikkim.ac.in/documents/Project/2023/BIS%20MOU.pdf">
                 <div class=" flex-col gap-2 transition duration-300 ease-in-out hover:scale-110 ">
+<<<<<<< HEAD
                     <img src="../assets/image/mouPicture/bis.png" alt="image" class="object-fill h-65 w-65">
                     <p class="text-center text-2xl">Bureau of Indian Standards</p>
                 </div>
@@ -130,6 +135,12 @@
                     <p class="text-center text-2xl">SIST Chisopani </p>
                 </div>
             </a>
+=======
+                    <img src="../assets/image/mouPicture/bueroofindianstandard.png" alt="image" class="object-fill h-65 w-65">
+                    <p class="text-center text-2xl">Bureau of Indian Standards</p>
+                </div>
+            </a>
+>>>>>>> shruti2/master
         </div>
         <!--last content -->
         <div class="flex flex-wrap mx-auto  my-4">
